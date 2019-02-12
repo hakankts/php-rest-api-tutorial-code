@@ -17,5 +17,3 @@ copy api folder remote host and change database information
 copy work folder client host
 
 well done
-
---------------------------------------------- ***** ---------------------------------------------
