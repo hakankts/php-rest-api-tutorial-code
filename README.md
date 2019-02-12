@@ -1,5 +1,5 @@
-# php-rest-webservices-sample
-Rest Web Services Example Codes for PHP turkish or english
+# php-rest-api-sample
+Rest Api Example Codes for PHP turkish or english
 
 --------------------------------------------- ***** ---------------------------------------------
  
